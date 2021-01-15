@@ -1,4 +1,4 @@
-+import random
+import random
 drawer = [
     'Katelyn','Matt W','Tasha','Alex','Nick','Mariah','Matt S', 'Zack', 'Lindsy', 'Tessa','Ben', 'Joe']
 black_list = {
